@@ -1,0 +1,4 @@
+<resources>
+    <!-- 字号用法参考：https://material.io/design/typography/the-type-system.html#type-scale -->
+    <dimen name="input_code_margin">@dimen/dp_7_5</dimen>
+</resources>
